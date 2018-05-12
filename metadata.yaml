@@ -1,0 +1,27 @@
+_repo: Practical-Boat-SailingA-Concise-and-Simple-Treatise_39805
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39805-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Frazar, Douglas
+    birthdate: 1836
+    deathdate: 1896
+    gutenberg_agent_id: '40239'
+    url: http://www.gutenberg.org/2009/agents/40239
+description: ''
+gutenberg_issued: '2012-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39805'
+  lccn: '05024077'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GV'
+- !lcsh 'Sailing'
+title: 'Practical Boat-Sailing: A Concise and Simple Treatise'
+url: http://www.gutenberg.org/ebooks/39805
